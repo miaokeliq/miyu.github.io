@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // 密码验证函数
 function checkPassword() {
-  const correctPassword = "miyu0531";
+  const correctPassword = "miyu0530";
   const inputPassword = document.getElementById("password-input").value;
 
   if (inputPassword === correctPassword) {
